@@ -1,0 +1,77 @@
+{
+  "format_version": "1.1",
+  "package_name": "infra/rbe/client/mac-arm64",
+  "install_mode": "copy",
+  "actual_install_mode": "copy",
+  "files": [
+    {
+      "name": "CHANGELOG.md",
+      "size": 75656,
+      "hash": "PBkQH8S40lfEdCDt7uB0zR5kpuxawl8hffzji8jvEm8C"
+    },
+    {
+      "name": "LICENSE",
+      "size": 11358,
+      "hash": "z8d0m5b2O9McPEK1xHG_dWgUBT6EfBDz6wA0F7xSPTAC"
+    },
+    {
+      "name": "NOTICE",
+      "size": 6808,
+      "hash": "qRjF8Ls1dY-YIpgTfxjowuLiK6UBpTgLGxHkOosrhJ8C"
+    },
+    {
+      "name": "bootstrap",
+      "size": 19753394,
+      "executable": true,
+      "hash": "SxREpMPE2VJH4Hx9U2b-rxSHtKKspfVdPnOYD-FgAzgC"
+    },
+    {
+      "name": "dumpstats",
+      "size": 12377090,
+      "executable": true,
+      "hash": "zCiZNM-JoPZk4T3t2XXF3Ine7q9F0ld11GoPPPGv6VwC"
+    },
+    {
+      "name": "logdump",
+      "size": 12139426,
+      "executable": true,
+      "hash": "rwGvRoCrYmtQUMWpLjXIH5cOciWdVS1Ie9IFH1Aai6MC"
+    },
+    {
+      "name": "reproxy",
+      "size": 40778146,
+      "executable": true,
+      "hash": "KWrl2qXUn18h3QlAP25n8CtBJR1EQFp51TjInSKdMysC"
+    },
+    {
+      "name": "reproxystatus",
+      "size": 11805426,
+      "executable": true,
+      "hash": "YEXlziktaLHSswMi7cruEbhW-E2RYV1e4JJbORCgVi0C"
+    },
+    {
+      "name": "rewrapper",
+      "size": 12317106,
+      "executable": true,
+      "hash": "SBdtkPUcD3REj1jjYiQxgSMT3QYOn0trqXKF8ELvvp8C"
+    },
+    {
+      "name": "rpl2cloudtrace",
+      "size": 15523746,
+      "executable": true,
+      "hash": "oyrpuexNfRmCIO9DvPFYPo6cVhqgJJrIdrIEh2lj28UC"
+    },
+    {
+      "name": "rpl2trace",
+      "size": 12155714,
+      "executable": true,
+      "hash": "10DvwTmy25HzMSfXXTr1gCYeOEsXMbe9RrU-QsbEAsYC"
+    },
+    {
+      "name": "scandeps_server",
+      "size": 14073724,
+      "executable": true,
+      "hash": "WrYiF-z437m3oyXrWpcqG_bB8LQ5d2bYwq7a86GhUEEC"
+    }
+  ]
+}
